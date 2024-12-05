@@ -1,3 +1,4 @@
 [submodule "gem5"]
 	path = gem5
 	url = https://github.com/Crinstaniev/gem5.git
+	branch = cyclone
